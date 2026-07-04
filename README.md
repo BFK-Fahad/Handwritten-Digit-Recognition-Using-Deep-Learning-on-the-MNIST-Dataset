@@ -7,7 +7,7 @@ A Python-based deep learning project implementing a Sequential Artificial Neural
 ## 📌 Project Overview
 - **Problem Statement:** Handwritten digits have vast human variation in stroke, style, and thickness. This project provides a non-linear classification solution to map raw pixel matrices into accurate numerical classifications (digits 0-9).
 - **Solution:** A fully-connected Multilayer Perceptron (MLP) built with Keras and TensorFlow that handles spatial unrolling and learns non-linear decision boundaries.
-- **Full Documentation:** For an exhaustive 15-20 page structural explanation and mathematical breakdowns, see the attached [Technical Report PDF](./Handwritten_Digit_Recognition_Documentation.pdf).
+- **Full Documentation:** For an exhaustive 15-20 page structural explanation and mathematical breakdowns, see the attached [Technical Report PDF](./Deep%20Learning%20MNIST%20Project.docx).
 
 ---
 
